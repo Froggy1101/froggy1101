@@ -6,7 +6,7 @@
 - 💬 Ask me about nothing(i wont answere)
 - 📫 How to reach me: pls dont
 - 😄 Pronouns: he/herscher
-- ⚡ Fun fact: i like Giraffes
+- ⚡ Fun fact: i like Giraffes very much
   
 <!--
 **Froggy1101/froggy1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
