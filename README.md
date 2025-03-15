@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Ich stehe auf Giraffen
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning Godot
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking to help with nothing(i cant do my own stuff, how should i help then others)
+- 💬 Ask me about nothing(i wont answere)
+- 📫 How to reach me: pls dont
+- 😄 Pronouns: he/herscher
+- ⚡ Fun fact: i like Giraffes
+  
 <!--
 **Froggy1101/froggy1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
